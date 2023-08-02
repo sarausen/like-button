@@ -22,7 +22,6 @@ const likeClick = () => {
   }
 };
 
-
 // Event Listeners
 
 likeBtn.addEventListener('click', likeClick);
